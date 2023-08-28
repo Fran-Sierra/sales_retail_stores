@@ -12,4 +12,6 @@ that later on was summarized and visualized on a dashboard with the help of filt
 
 All_months.csv contains the raw data
 
+This project was also carried out with ssms. You can check it [here](https://github.com/Fran-Sierra/Retail_Store_SQL)
+
 ![My Image](SalesDashboard.png)
