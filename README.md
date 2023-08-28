@@ -8,4 +8,6 @@ I answered 5 high level business questions.
 
 To answer these questions the raw data was  transformed using functions as Index, Textsplit, Month, Hour. Pivot tables (along 'sumifs' and 'wildcards' for the most sold together items) extracted useful information that later on was summarized an visualized on a dashboard.
 
+All_months.csv contains the raw data
+
 ![My Image](SalesDashboard.png)
